@@ -6,6 +6,10 @@
   <img height="180em" style="width: 49%; float: right; margin: none; margin-bottom: 10px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=djonatanfav&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<hr style="clear: both; height: 2px; margin: 10px;"/>
+
+![Snake animation](https://github.com/djonatanfav/djonatanfav/blob/output/github-contribution-grid-snake.svg)
+
 <hr style="clear: both; height: 2px; margin: -5px;"/>
 
 <center>
@@ -30,8 +34,3 @@
     <a href="https://www.linkedin.com/in/djonatanfavero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 </center>
-
-
-<hr style="clear: both; height: 2px; margin: 10px;"/>
-
-![Snake animation](https://github.com/djonatanfav/djonatanfav/blob/output/github-contribution-grid-snake.svg)
