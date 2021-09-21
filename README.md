@@ -25,7 +25,7 @@
 </center>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-
+<!-- >
 <hr style="clear: both; height: 2px; margin: 10px;"/>
 
 <center>
@@ -33,4 +33,4 @@
     <a href="https://www.instagram.com/djonatanfav" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/djonatanfavero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-</center>
+</center> -->
