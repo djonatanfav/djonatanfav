@@ -1,4 +1,4 @@
-### Ooii, eu sou o Djonatan 👨‍💻🙋‍♂️
+### Oi, eu sou o Djonatan 👨‍💻🙋‍♂️
 
 <div>
   <a href="https://github.com/djonatanfav">
